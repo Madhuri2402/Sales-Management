@@ -4,7 +4,7 @@ Used slicer, page navigation, drill down features. Also used plots like Donut ch
 Used SQL and Excel for Data Cleansing and Transformation. <br />
 
 ### For report <br />
-https://app.powerbi.com/view?r=eyJrIjoiNjBkY2RlYzktZTE1ZC00N2MyLThjZDAtMDE0MjFhNzUwZjFhIiwidCI6ImQ2ZjdlYTZjLWFhY2QtNDQzYy1hYTg5LWY5OTgwMmJhOGZkNyJ9&pageName=ReportSection915b44d394374e075adc
+https://app.powerbi.com/viewr=eyJrIjoiNjBkY2RlYzktZTE1ZC00N2MyLThjZDAtMDE0MjFhNzUwZjFhIiwidCI6ImQ2ZjdlYTZjLWFhY2QtNDQzYy1hYTg5LWY5OTgwMmJhOGZkNyJ9&pageName=ReportSection915b44d394374e075adc
 
 
 ### Data Model 
